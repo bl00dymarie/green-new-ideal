@@ -1,4 +1,4 @@
-# green-new-ideal
+# Green New Ideal
 this or sth else
 
 ## Technical requirements for JavaScript app
